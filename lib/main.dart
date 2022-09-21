@@ -1,3 +1,4 @@
+import 'package:e3_solution/app/front_Page.dart';
 import 'package:flutter/material.dart';
 
 void main() {
@@ -9,6 +10,8 @@ class E3SolutionApp extends StatelessWidget {
 
   @override
   Widget build(BuildContext context) {
-    return Container(); // TODO - implement the UI layout here!
+    return MaterialApp(
+      home: FrontPage(),
+    ); // TODO - implement the UI layout here!
   }
 }
