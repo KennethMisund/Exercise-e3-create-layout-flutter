@@ -1,0 +1,164 @@
+{
+  "tests": [
+    {
+      "name": "AppBar is present",
+      "setup": "",
+      "run": "flutter test --name='AppBar is present'",
+      "input": "",
+      "output": "",
+      "comparison": "included",
+      "timeout": 10,
+      "points": 10
+    },
+    {
+      "name": "AppBar has the right text",
+      "setup": "",
+      "run": "flutter test --name='AppBar has the right text'",
+      "input": "",
+      "output": "",
+      "comparison": "included",
+      "timeout": 10,
+      "points": 10
+    },
+    {
+      "name": "Grey background color",
+      "setup": "",
+      "run": "flutter test --name='Grey background color'",
+      "input": "",
+      "output": "",
+      "comparison": "included",
+      "timeout": 10,
+      "points": 10
+    },
+    {
+      "name": "Three buttons present",
+      "setup": "",
+      "run": "flutter test --name='Three buttons present'",
+      "input": "",
+      "output": "",
+      "comparison": "included",
+      "timeout": 10,
+      "points": 10
+    },
+    {
+      "name": "Vertical button layout",
+      "setup": "",
+      "run": "flutter test --name='Vertical button layout'",
+      "input": "",
+      "output": "",
+      "comparison": "included",
+      "timeout": 10,
+      "points": 10
+    },
+    {
+      "name": "Spacing between AppBard and first button",
+      "setup": "",
+      "run": "flutter test --name='Spacing between AppBard and first button'",
+      "input": "",
+      "output": "",
+      "comparison": "included",
+      "timeout": 10,
+      "points": 10
+    },
+    {
+      "name": "Spacing between buttons",
+      "setup": "",
+      "run": "flutter test --name='Spacing between buttons'",
+      "input": "",
+      "output": "",
+      "comparison": "included",
+      "timeout": 10,
+      "points": 10
+    },
+    {
+      "name": "Student on the first button",
+      "setup": "",
+      "run": "flutter test --name='Student on the first button'",
+      "input": "",
+      "output": "",
+      "comparison": "included",
+      "timeout": 10,
+      "points": 10
+    },
+    {
+      "name": "Chuck on the second button",
+      "setup": "",
+      "run": "flutter test --name='Chuck on the second button'",
+      "input": "",
+      "output": "",
+      "comparison": "included",
+      "timeout": 10,
+      "points": 10
+    },
+    {
+      "name": "Knock Knock, you are out",
+      "setup": "",
+      "run": "flutter test --name='Knock Knock, you are out'",
+      "input": "",
+      "output": "",
+      "comparison": "included",
+      "timeout": 10,
+      "points": 10
+    },
+    {
+      "name": "First button is enabled",
+      "setup": "",
+      "run": "flutter test --name='First button is enabled'",
+      "input": "",
+      "output": "",
+      "comparison": "included",
+      "timeout": 10,
+      "points": 10
+    },
+    {
+      "name": "Second button is enabled",
+      "setup": "",
+      "run": "flutter test --name='Second button is enabled'",
+      "input": "",
+      "output": "",
+      "comparison": "included",
+      "timeout": 10,
+      "points": 10
+    },
+    {
+      "name": "Third button is disabled",
+      "setup": "",
+      "run": "flutter test --name='Third button is disabled'",
+      "input": "",
+      "output": "",
+      "comparison": "included",
+      "timeout": 10,
+      "points": 10
+    },
+    {
+      "name": "Button font size",
+      "setup": "",
+      "run": "flutter test --name='Button font size'",
+      "input": "",
+      "output": "",
+      "comparison": "included",
+      "timeout": 10,
+      "points": 10
+    },
+    {
+      "name": "First button is bold",
+      "setup": "",
+      "run": "flutter test --name='First button is bold'",
+      "input": "",
+      "output": "",
+      "comparison": "included",
+      "timeout": 10,
+      "points": 10
+    },
+    {
+      "name": "Horizontal padding",
+      "setup": "",
+      "run": "flutter test --name='Horizontal padding'",
+      "input": "",
+      "output": "",
+      "comparison": "included",
+      "timeout": 10,
+      "points": 10
+    }
+  ]
+}
